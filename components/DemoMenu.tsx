@@ -7,7 +7,7 @@ const products = [
   { id: "sandwich", category: "Lanches", name: "Sanduíche da casa", description: "Uma combinação especial de ingredientes frescos no pão tostado.", price: "R$ 27,90", image: "https://images.unsplash.com/photo-1521390188846-e2a3a97453a0?auto=format&fit=crop&w=1000&q=85", alt: "Sanduíche artesanal" },
   { id: "salad", category: "Pratos", name: "Prato leve", description: "Mix de folhas, vegetais frescos e acompanhamentos selecionados.", price: "R$ 29,90", image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1000&q=85", alt: "Salada fresca colorida" },
   { id: "juice", category: "Bebidas", name: "Suco natural", description: "Bebida refrescante preparada com frutas selecionadas.", price: "R$ 12,00", image: "https://images.unsplash.com/photo-1497534446932-c925b458314e?auto=format&fit=crop&w=1000&q=85", alt: "Suco natural em copo" },
-  { id: "dessert", category: "Sobremesas", name: "Doce especial", description: "Uma finalização delicada para deixar a experiência ainda melhor.", price: "R$ 16,90", image: "https://images.unsplash.com/photo-1551024506-0.address", alt: "Sobremesa especial" }
+  { id: "dessert", category: "Sobremesas", name: "Doce especial", description: "Uma finalização delicada para deixar a experiência ainda melhor.", price: "R$ 16,90", image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1000&q=85", alt: "Sobremesa especial" }
 ];
 const categories = ["Todos", "Lanches", "Acompanhamentos", "Pratos", "Bebidas", "Sobremesas"];
 
